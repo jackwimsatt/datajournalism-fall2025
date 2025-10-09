@@ -1,0 +1,6 @@
+https://elkue.com/nyc-slice/
+https://data.world/jackwimsatt/hello/workspace/file?agentid=makeovermonday&datasetid=britions-newyearsresolutions-2024&filename=Full_New_Years_Resolutions_Gender_Age_Breakdown+%281%29.xlsx
+https://drive.google.com/file/d/1KvQK4Stkbi2SLQWNoK-nUCqEd4awlpTy/view?usp=drive_link 
+https://drive.google.com/file/d/12M8_PUSTMQHMapPN522P7Igtzgbv243S/view?usp=drive_link
+For the NY slice information, I scrolled down to the bottom of the page to see which slices were most popular, so I made a pie chart with the different units of information on the data. The reason why I chose a pie chart was because it was apparently obvious that one data point was significantly larger than the rest, so a pie chart provided a materialization of that majority.
+The other source of information I used was looking at a sample of New Years Resolutions specifically within the age group of 18-24. Because this was only a chart, it was difficult to visualise exactly which resolutions were most popular. It also didn't help that the popularity of each resolution was widely veried. Because of how many data points there were, I thought it was best to use a graph chart to put into perspective what everyone chose. 
