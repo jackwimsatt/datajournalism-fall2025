@@ -1,0 +1,49 @@
+Danielle Adusei, Jack Wimsatt
+Does Fentanyl Have a Favorite Victim?
+
+Since 2016, the nation has witnessed fentanyl surpassing heroin and other prescription opioids as the leading cause of fatal overdoses. Why specifically has this drug become so dominant in such a seemingly short period of time? Because it’s the easiest thing to produce and distribute. It is extremely potent (almost 50x stronger than heroin), it’s extremely cheap to manufacture, and it is extremely easy to hide and fold into other drugs. Who is it affecting the most and where?
+
+Opioids in general are perhaps the heart of America’s drug problem. But certain regions experience the plague of synthetic opioids, like fentanyl, to a much higher degree. Fentanyl's history is a bit of a strange loop. Although fentanyl has been on the market since the 1960s, it didn't become a serious problem until 2013. Since then, the market has been almost completely saturated with the drug. Upon its earlier release, fentanyl struck Appalachia and New England and then migrated its way down South and out West reaching Native American and Black communities disproportionately. 
+
+Within the last 10 years, certain regions have inherited the drug seemingly permanently including Ohio, Pennsylvania, and the DMV ( D.C., Maryland, and Virginia). Our focus region is the DC greater metropolitan area. By 2023, Washington, DC had the highest drug overdose rate in the country with fentanyl being the serial killer.  The question we are trying to ask within our findings is what race and age demographic has been affected by drug related overdose within the US from 1999-2018 and 2023 according to data.
+
+	In 2018, somewhere around 60 percent of all drug overdoses nationwide were caused by opioids, but only about ⅙  of those were shown to use a synthetic opioid other than methadone. Now we don’t necessarily have data on whether or not all of those deaths were via fentanyl, but we can compare it to how synthetic opioids had ravaged the nation's capital during that time. In DC, and neighboring state Maryland, about 80 percent of all fatal overdoses were a result of opioids. And of those deaths, around 90 percent involved the use of fentanyl. We might ask why this region specifically has been targeted by such a lethal drug and who it is affecting most. 
+
+Nationally, the most targeted demographic by opioid deaths were men between the ages of 25-44; specifically White and Black NH men. However, following close behind were women between the ages 35 and 64; also White and Black NH. It is fair to say that fentanyl doesn’t necessarily play favorites in the data findings across the nation. White and Black men are almost equally affected, although there is a slight upwards trend towards White women over Black women. DC does not look the same whatsoever. Between 2016-2018, fentanyl usage in opioid related overdoses shot from 60 to 86 percent. What is also very particular about this region is that nearly all (82%) of fentanyl use was limited to the Black community. Additionally, the victims of fentanyl in DC seem to be much older. The highest affected age range is 50-69. 
+
+Regionally, the highest distributed wards are 5,7, and 8, which are all predominantly Black communities. Naturally, if that’s where the drugs are, then it makes sense to target Black communities, but why doesn’t it spread? Why in DC are Black people so disproportionately plagued by fentanyl when research shows that it doesn’t necessarily favor any specific group nationwide? 
+
+The main data we used was the national catalog from data.gov on drug overdose death rates. This data was a massive help to guide our comparisons and questions further. It does not necessarily need extensive cleaning, but it is overwhelming to look at. To ask questions about the data and to it, we spent much diligent time filtering through the specifics of which drug was used, which year(s) synthetic opioids came to the forefront of the story, which races were affected, which age groups were affected, and where the intersectionality between those factors lie. To find data on DC and Maryland data, most of our sources are external articles and dashboards. 
+
+
+For this data set we wanted to know what age was most affected by opioid deaths according to a Data.gov source we found. After looking over the csv file, we realized that this dataset did not need cleaning due to the fact that it was thoroughly checked over. 
+
+In the pivot table we added age to filter out the specific ages, put the panel into the rows section that listed all the drug overdoses involving opioids, heroin, methadone, natural semisynthetic opioids, and other semisynthetic opioids, and sum of estimates to estimate the values of deaths to a specific age group. 
+
+After finding the estimated value for each age group, we pasted the data to datawrapper and chose to use a column chart to best represent our findings because it properly identified the age groups while being able to compare the values side by side.   
+
+According to Data.gov within this data set, the age demographic that were affected the most nationally for drug related deaths involving opioids, heroin, methadone, natural semisynthetic opioids, and other semisynthetic opioids is aged between 45-54. Ages between 35-45 closely follow behind.
+
+If given more time, we would report this data with the age factor in mind. There's an obvious trend in the working age class (15-64)  group having the highest death rates. This can be caused by many factors such as stress and being overworked. We would include articles that focus on stress, mental, and physical health within the work culture in the US. We would also include interviews from the current working class and retired workers to gain more of a personal perspective for audiences to relate to.  
+
+In conclusion,  within our findings we've noticed that nationally, the most affected by drug related overdose deaths were closely between White and Black males and people between the ages of 45-54. Regional data showed that Black males and people over the age of 50-69 were the most affected by drug related overdose deaths.
+
+
+
+
+
+
+
+Data Sets/Articles: 
+https://catalog.data.gov/dataset/drug-overdose-death-rates-by-drug-type-sex-age-race-and-hispanic-origin-united-states-3f72f 
+https://health.maryland.gov/dataoffice/Pages/mdh-dashboards.aspx#drugs-nonfatal-overdoses 
+https://stopoverdose.maryland.gov/wp-content/uploads/sites/34/2023/03/OOCC-Grants-Reference-Demographic-Information-.pdf 
+https://www.nytimes.com/2024/05/23/us/baltimore-opioid-epidemic-od-deaths.html
+https://marylandmatters.org/2025/05/15/maryland-overdose-deaths-fell-30-in-2024-preliminary-national-data-shows/
+https://usafacts.org/answers/how-many-drug-overdose-deaths-happen-every-year-in-the-us/state/washington-dc/
+https://www.dea.gov/sites/default/files/2022-12/Fentanyl%202022%20Drug%20Fact%20Sheet.pdf
+https://dataviz1.dc.gov/t/OCTO/views/DCHealthLiveLongDCDashboardFinal/OpioidLandingPage?%3AshowAppBanner=false&%3Adisplay_count=n&%3AshowVizHome=n&%3Aorigin=viz_share_link&%3Aembed=yes&%3Atoolbar=no
+https://www.cdc.gov/overdose-prevention/about/understanding-the-opioid-overdose-epidemic.html 
+https://www.tfah.org/article/new-data-shows-drug-overdoses-increased-in-40-states-and-washington-d-c/ 
+https://www.oecd.org/en/data/indicators/working-age-population.html
+
